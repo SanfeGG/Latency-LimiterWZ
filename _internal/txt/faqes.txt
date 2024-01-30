@@ -1,0 +1,17 @@
+Preguntas frecuentes:
+
+1- ¿Qué es Latency-Limiter?
+
+Latency-Limiter es un software enfocado en que los usuarios puedan jugar en su región. Cuando el juego no logra encontrar partida, aumenta el rango de búsqueda haciendo que te pueda llegar a conectar en otra región y, por lo tanto, jugar con mucha más latencia/ping.
+
+2- ¿Me pueden banear por usarlo?
+
+No, no pueden banearte por usar el software ya que no altera las funciones del juego. Lo que hace Latency-Limiter es detectar si el juego te conectó a una partida en otra región, sacarte de la misma y volver a buscar. Esto lo realiza en bucle hasta que el juego te meta a una partida en tu región sin necesidad de inyectarse o manipular funciones internas del juego.
+
+3- ¿Tengo que tener alguna opción activada dentro del juego?
+
+Sí, tenés que tener visible la opción de "Latencia" dentro del juego. ¿Por qué? Basicamente porque Latency-Limiter precisa obtener el valor para saber en qué región te encontró partida.
+
+4- ¿Qué hago si tengo algún problema y no puedo resolverlo?
+
+Si tenés un problema con el software o si tenés alguna sugerencia, podés mandar un mail a sanfecontacto@gmail.com o contactarte por Twitter/Instagram con @sanfegg

@@ -1,0 +1,17 @@
+Perguntas Frequentes:
+
+1- O que é o Latency-Limiter?
+
+Latency-Limiter é um software para que os usuários joguem sempre em sua região com uma latência bom. Quando o jogo não consegue achar partida, ele expande o alcance, fazendo que você possa jogar em outra região e, consequentemente, você vai ter latência/ping durante o jogo.
+
+2- Posso ser banido por usá-lo?
+
+Não, você não pode ser banido por usar o software, pois ele não altera as funções do jogo. O que o Latency-Limiter faz é detectar se o jogo o conecta a uma partida em outra região, removê-lo dessa partida e voltar a puxar. Ele repete esse processo até que o jogo o coloque em uma partida dentro de sua região, sem a necessidade de injetar ou manipular as funções internas do jogo.
+
+3- Preciso ter alguma opção específica ativada dentro do jogo?
+
+Sim, você precisa ter a opção "Latência" visível dentro do jogo. Por quê? Porque o Latency-Limiter precisa obter esse valor para saber em qual região encontrou uma partida para você.
+
+4- O que devo fazer se tiver algum problema e não conseguir resolvê-lo?
+
+Se você tiver algum problema com o software ou tiver sugestões, pode enviar um e-mail para sanfecontacto@gmail.com ou entrar em contato pelo Twitter/Instagram em @sanfegg.

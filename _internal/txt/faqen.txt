@@ -1,0 +1,17 @@
+Frequently Asked Questions:
+
+1- What is Latency-Limiter?
+
+Latency-Limiter is software designed to allow users to play in their region. When the game fails to find a match, it expands the search range, potentially connecting you to another region and, consequently, resulting in higher latency/ping during gameplay.
+
+2- Can I get banned for using it?
+
+No, you cannot be banned for using the software as it does not alter the game's functions. What Latency-Limiter does is detect if the game connected you to a match in another region, remove you from that match, and continue searching. It repeats this process until the game places you in a match within your region, without the need to inject or manipulate the game's internal functions.
+
+3- Do I need to have any specific option enabled within the game?
+
+Yes, you need to have the "Latency" option visible within the game. Why? Essentially, Latency-Limiter needs to obtain this value to determine in which region it found a match for you.
+
+4- What should I do if I encounter any issues and cannot resolve them?
+
+If you encounter any problems with the software or have suggestions, you can send an email to sanfecontacto@gmail.com or reach out on Twitter/Instagram at @sanfegg.
